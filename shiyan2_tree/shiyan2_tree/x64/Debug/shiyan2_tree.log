@@ -1,0 +1,14 @@
+﻿  tree.c
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(84,18): warning C4133: “函数”: 从“BiTreeNode *”到“Stack_DataType”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(86,18): warning C4133: “函数”: 从“BiTreeNode **”到“Stack_DataType *”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(90,35): warning C4133: “函数”: 从“BiTreeNode *”到“Stack_DataType”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(92,35): warning C4133: “函数”: 从“BiTreeNode *”到“Stack_DataType”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(138,20): warning C4133: “函数”: 从“BiTreeNode *”到“Queue_DataType”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(140,21): warning C4133: “函数”: 从“BiTreeNode **”到“Queue_DataType *”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(143,23): warning C4133: “函数”: 从“Node *”到“Queue_DataType”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(145,23): warning C4133: “函数”: 从“Node *”到“Queue_DataType”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(233,22): warning C4133: “函数”: 从“BiTreeNode *”到“Queue_DataType”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(238,23): warning C4133: “函数”: 从“BiTreeNode **”到“Queue_DataType *”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(249,31): warning C4133: “函数”: 从“Node *”到“Queue_DataType”的类型不兼容
+D:\Visual Studio2022\chai_code\shiyan2_tree\shiyan2_tree\tree.c(250,31): warning C4133: “函数”: 从“Node *”到“Queue_DataType”的类型不兼容
+  shiyan2_tree.vcxproj -> D:\Visual Studio2022\chai_code\shiyan2_tree\x64\Debug\shiyan2_tree.exe

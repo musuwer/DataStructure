@@ -1,0 +1,13 @@
+﻿DFSBFS.obj : error LNK2005: CreatGraph 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: DeleteEdge 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: GetFirstVex 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: GetNextVex 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: Initiate 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: InsertEdge 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: InsertVertex 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: ListDelete 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: ListGet 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: ListInitiate 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: ListInsert 已经在 AdjMGraph.obj 中定义
+DFSBFS.obj : error LNK2005: ListLength 已经在 AdjMGraph.obj 中定义
+D:\Visual Studio2022\chai_code\shiyan3_Graph\x64\Debug\shiyan3_Graph.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

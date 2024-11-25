@@ -1,8 +1,0 @@
-﻿  tree.c
-D:\Visual Studio2022\chai_code\shiyan_tree_11_13\shiyan_tree_11_13\tree.c(84,18): warning C4133: “函数”: 从“BiTreeNode *”到“Stack_DataType”的类型不兼容
-D:\Visual Studio2022\chai_code\shiyan_tree_11_13\shiyan_tree_11_13\tree.c(86,18): warning C4133: “函数”: 从“BiTreeNode **”到“Stack_DataType *”的类型不兼容
-D:\Visual Studio2022\chai_code\shiyan_tree_11_13\shiyan_tree_11_13\tree.c(90,35): warning C4133: “函数”: 从“BiTreeNode *”到“Stack_DataType”的类型不兼容
-D:\Visual Studio2022\chai_code\shiyan_tree_11_13\shiyan_tree_11_13\tree.c(92,35): warning C4133: “函数”: 从“BiTreeNode *”到“Stack_DataType”的类型不兼容
-D:\Visual Studio2022\chai_code\shiyan_tree_11_13\shiyan_tree_11_13\tree.c(185,38): warning C4098: “main”:“void”函数返回值
-D:\Visual Studio2022\chai_code\shiyan_tree_11_13\shiyan_tree_11_13\tree.c(188,14): warning C4101: “p”: 未引用的局部变量
-  shiyan_tree_11_13.vcxproj -> D:\Visual Studio2022\chai_code\shiyan_tree_11_13\x64\Debug\shiyan_tree_11_13.exe

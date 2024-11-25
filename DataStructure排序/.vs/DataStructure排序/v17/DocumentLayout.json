@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7489AE1D-768E-4190-A766-EAEA6DF73326}|DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F.vcxproj|D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u5F52\u5E76\u6392\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7489AE1D-768E-4190-A766-EAEA6DF73326}|DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F.vcxproj|solutionrelative:DataStructure\u6392\u5E8F\\\u5F52\u5E76\u6392\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7489AE1D-768E-4190-A766-EAEA6DF73326}|DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F.vcxproj|D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u5FEB\u901F\u6392\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7489AE1D-768E-4190-A766-EAEA6DF73326}|DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F.vcxproj|solutionrelative:DataStructure\u6392\u5E8F\\\u5FEB\u901F\u6392\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7489AE1D-768E-4190-A766-EAEA6DF73326}|DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F.vcxproj|D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u76F4\u63A5\u63D2\u5165\u6392\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7489AE1D-768E-4190-A766-EAEA6DF73326}|DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F.vcxproj|solutionrelative:DataStructure\u6392\u5E8F\\\u76F4\u63A5\u63D2\u5165\u6392\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5F52\u5E76\u6392\u5E8F.c",
+              "DocumentMoniker": "D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u5F52\u5E76\u6392\u5E8F.c",
+              "RelativeDocumentMoniker": "DataStructure\u6392\u5E8F\\\u5F52\u5E76\u6392\u5E8F.c",
+              "ToolTip": "D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u5F52\u5E76\u6392\u5E8F.c",
+              "RelativeToolTip": "DataStructure\u6392\u5E8F\\\u5F52\u5E76\u6392\u5E8F.c",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-25T09:40:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u76F4\u63A5\u63D2\u5165\u6392\u5E8F.c",
+              "DocumentMoniker": "D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u76F4\u63A5\u63D2\u5165\u6392\u5E8F.c",
+              "RelativeDocumentMoniker": "DataStructure\u6392\u5E8F\\\u76F4\u63A5\u63D2\u5165\u6392\u5E8F.c",
+              "ToolTip": "D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u76F4\u63A5\u63D2\u5165\u6392\u5E8F.c",
+              "RelativeToolTip": "DataStructure\u6392\u5E8F\\\u76F4\u63A5\u63D2\u5165\u6392\u5E8F.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-24T13:46:00.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5FEB\u901F\u6392\u5E8F.c",
+              "DocumentMoniker": "D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u5FEB\u901F\u6392\u5E8F.c",
+              "RelativeDocumentMoniker": "DataStructure\u6392\u5E8F\\\u5FEB\u901F\u6392\u5E8F.c",
+              "ToolTip": "D:\\Visual Studio2022\\chai_code\\DataStructure\u6392\u5E8F\\DataStructure\u6392\u5E8F\\\u5FEB\u901F\u6392\u5E8F.c",
+              "RelativeToolTip": "DataStructure\u6392\u5E8F\\\u5FEB\u901F\u6392\u5E8F.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-24T10:09:16.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
